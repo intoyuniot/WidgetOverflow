@@ -1,0 +1,17 @@
+{
+    "name": "WidgetOverflow",
+    "version": "1.0.0",
+    "keywords": "Widget,Overflow",
+    "description": "溢出检测应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetOverflow.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
